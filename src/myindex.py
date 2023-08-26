@@ -5,7 +5,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 
-from app import *
+from app import app
 from components import sidebar, dashboards
 
 
@@ -33,7 +33,6 @@ app.layout = dbc.Container(
     ],
     fluid=True,
 )
-
 
 
 
