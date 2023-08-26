@@ -1,0 +1,10 @@
+dash==2.11.1
+dash_bootstrap_components==1.4.2
+globals==0.3.36
+numpy==1.25.2
+pandas==2.0.3
+plotly==5.15.0
+pycountry==22.3.5
+pycountry_convert==0.7.2
+gunicorn
+dash-tools
