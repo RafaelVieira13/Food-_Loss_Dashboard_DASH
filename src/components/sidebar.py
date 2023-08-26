@@ -3,7 +3,7 @@ import dash
 from dash import html, dcc
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
-from src.app import app
+from app import *
 
 from datetime import datetime, date
 import plotly.express as px

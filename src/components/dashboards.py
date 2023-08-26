@@ -8,7 +8,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import calendar
 from globals import *
-from src.app import app
+from app import *
 import re
 import pycountry
 from pycountry_convert import country_name_to_country_alpha2, country_alpha2_to_continent_code
